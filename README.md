@@ -6,4 +6,4 @@ All the script does is check what paths you have and rename them accordingly to 
 
 For the Pineapple Yuzu version, use the Pineapple liteinstall updater and place the installer into the same Yuzu folder as the official updater.
 
-If you're new to Powershell scripts, you'll need to launch a Powershell terminal as admin and run this command: `Set-ExecutionPolicy Unrestricted`. This will allow you to execute unsigned scripts that come from the internet. Be VERY careful when running scripts from the internet, always read through the code to make sure nothing appears malicious. You might also want to open the properties for the script and check "Unblock" to keep it from warning you every time. To run the script, right click it and select "Run with PowerShell".
+To run, place both the respective ps1 and bat files in the same directory (whatever directory you want) and double click the bat file.
